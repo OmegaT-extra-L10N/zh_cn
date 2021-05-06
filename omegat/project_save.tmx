@@ -230,6 +230,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find what:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T032924Z" creationid="wynnc" creationdate="20210506T032924Z">
+        <seg>查找内容：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030044Z" creationid="wynnc" creationdate="20210506T030044Z">
@@ -266,6 +274,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025757Z" creationid="wynnc" creationdate="20210506T025757Z">
         <seg>HTML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>I</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033017Z" creationid="wynnc" creationdate="20210506T033017Z">
+        <seg>I</seg>
       </tuv>
     </tu>
     <tu>
@@ -622,6 +638,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace with:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T032929Z" creationid="wynnc" creationdate="20210506T032929Z">
+        <seg>替换为：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025852Z" creationid="wynnc" creationdate="20210506T025852Z">
@@ -906,6 +930,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025625Z" creationid="wynnc" creationdate="20210506T025625Z">
         <seg>必须指定路径。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Z</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T032917Z" creationid="wynnc" creationdate="20210506T032917Z">
+        <seg>Z</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
