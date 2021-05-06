@@ -54,6 +54,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Characters:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033727Z" creationid="wynnc" creationdate="20210506T033702Z">
+        <seg>字符数：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose what text to paste from text recently on the clipboard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024933Z" creationid="wynnc" creationdate="20210506T024933Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Encoding:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033735Z" creationid="wynnc" creationdate="20210506T033735Z">
+        <seg>编码方式：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Error</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031157Z" creationid="wynnc" creationdate="20210506T031157Z">
@@ -218,6 +234,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033040Z" creationid="wynnc" creationdate="20210506T033040Z">
         <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>File Size:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033736Z" creationid="wynnc" creationdate="20210506T033736Z">
+        <seg>文件大小：</seg>
       </tuv>
     </tu>
     <tu>
@@ -242,6 +266,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031204Z" creationid="wynnc" creationdate="20210506T031204Z">
         <seg>查找</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find Prev.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033614Z" creationid="wynnc" creationdate="20210506T033614Z">
+        <seg>查找上一个</seg>
       </tuv>
     </tu>
     <tu>
@@ -366,10 +398,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Last modified:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033739Z" creationid="wynnc" creationdate="20210506T033739Z">
+        <seg>上次修改时间：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Line Number:</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030717Z" creationid="wynnc" creationdate="20210506T030717Z">
         <seg>行号：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line terminator:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033732Z" creationid="wynnc" creationdate="20210506T033732Z">
+        <seg>行终止符：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033827Z" creationid="wynnc" creationdate="20210506T033827Z">
+        <seg>行：{0}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Lines:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033724Z" creationid="wynnc" creationdate="20210506T033656Z">
+        <seg>行数：</seg>
       </tuv>
     </tu>
     <tu>
@@ -410,6 +474,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025613Z" creationid="wynnc" creationdate="20210506T025613Z">
         <seg>缺少路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Multiple markers at this line:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033838Z" creationid="wynnc" creationdate="20210506T033838Z">
+        <seg>这行有多个标记：</seg>
       </tuv>
     </tu>
     <tu>
@@ -502,6 +574,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Occurrence of "{0}"</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033845Z" creationid="wynnc" creationdate="20210506T033845Z">
+        <seg>出现“{0}”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
@@ -514,6 +594,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024952Z" creationid="wynnc" creationdate="20210506T024952Z">
         <seg>Okapi XLIFF 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Old Macintosh (\r)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033810Z" creationid="wynnc" creationdate="20210506T033810Z">
+        <seg>老 Macintosh (\r)</seg>
       </tuv>
     </tu>
     <tu>
@@ -590,6 +678,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Path:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033652Z" creationid="wynnc" creationdate="20210506T033652Z">
+        <seg>路径：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Places text on clipboard at current location in text file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024233Z" creationid="wynnc" creationdate="20210506T024233Z">
@@ -602,6 +698,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031150Z" creationid="wynnc" creationdate="20210506T031150Z">
         <seg>请输入一个整数，从 1 到 </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Press 'F2' for focus</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033909Z" creationid="wynnc" creationdate="20210506T033909Z">
+        <seg>按“ F2”来获得焦点</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Properties: {0}</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033646Z" creationid="wynnc" creationdate="20210506T033646Z">
+        <seg>属性：{0}</seg>
       </tuv>
     </tu>
     <tu>
@@ -694,6 +806,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Replace:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033641Z" creationid="wynnc" creationdate="20210506T033641Z">
+        <seg>替换：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>SDL-XLIFF files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025852Z" creationid="wynnc" creationdate="20210506T025852Z">
@@ -750,6 +870,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Shift+Enter performs a backwards replace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033621Z" creationid="wynnc" creationdate="20210506T033621Z">
+        <seg>Shift+Enter 执行向后替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Shift+Enter performs a backwards search</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033559Z" creationid="wynnc" creationdate="20210506T033559Z">
@@ -770,6 +898,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025734Z" creationid="wynnc" creationdate="20210506T025734Z">
         <seg>抱歉，复制参数文件时出现问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>System Default</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033816Z" creationid="wynnc" creationdate="20210506T033816Z">
+        <seg>系统默认</seg>
       </tuv>
     </tu>
     <tu>
@@ -842,6 +978,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
         <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>UNIX (\n)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033811Z" creationid="wynnc" creationdate="20210506T033811Z">
+        <seg>UNIX (\n)</seg>
       </tuv>
     </tu>
     <tu>
@@ -926,10 +1070,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033811Z" creationid="wynnc" creationdate="20210506T033811Z">
+        <seg>Windows (\r\n)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025859Z" creationid="wynnc" creationdate="20210506T025859Z">
         <seg>Wordfast Pro TXML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Words:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033721Z" creationid="wynnc" creationdate="20210506T033721Z">
+        <seg>单词数：</seg>
       </tuv>
     </tu>
     <tu>
