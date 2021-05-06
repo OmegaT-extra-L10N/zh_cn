@@ -78,6 +78,38 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Collapse All Comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034117Z" creationid="wynnc" creationdate="20210506T034117Z">
+        <seg>收起所有注释</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapse All Folds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034036Z" creationid="wynnc" creationdate="20210506T034036Z">
+        <seg>收起所有折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all comment folds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034127Z" creationid="wynnc" creationdate="20210506T034127Z">
+        <seg>收起所有注释折叠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Collapses all folds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034041Z" creationid="wynnc" creationdate="20210506T034041Z">
+        <seg>收起所有折叠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Content Assist Available</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033534Z" creationid="wynnc" creationdate="20210506T033534Z">
@@ -230,6 +262,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Expand All Folds</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034133Z" creationid="wynnc" creationdate="20210506T034133Z">
+        <seg>展开所有折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Expands all folds.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034141Z" creationid="wynnc" creationdate="20210506T034141Z">
+        <seg>展开所有折叠。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>F</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033040Z" creationid="wynnc" creationdate="20210506T033040Z">
@@ -290,6 +338,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033540Z" creationid="wynnc" creationdate="20210506T033540Z">
         <seg>查找：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Folding</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033913Z" creationid="wynnc" creationdate="20210506T033913Z">
+        <seg>折叠</seg>
       </tuv>
     </tu>
     <tu>
@@ -962,6 +1018,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025918Z" creationid="wynnc" creationdate="20210506T025918Z">
         <seg>缺少版本属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggle Current Fold</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033923Z" creationid="wynnc" creationdate="20210506T033923Z">
+        <seg>切换当前折叠</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Toggles the fold at the caret position.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T034025Z" creationid="wynnc" creationdate="20210506T034025Z">
+        <seg>在脱字符位置切换折叠。</seg>
       </tuv>
     </tu>
     <tu>
