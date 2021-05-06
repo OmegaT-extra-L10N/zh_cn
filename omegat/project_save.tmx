@@ -14,6 +14,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Another package with the same name already exists.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030512Z" creationid="wynnc" creationdate="20210506T030512Z">
+        <seg>已存在另一个同名的包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023937Z" creationid="wynnc" creationdate="20210506T023937Z">
@@ -86,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Creating new project from OMT package</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030303Z" creationid="wynnc" creationdate="20210506T030249Z">
+        <seg>正在从 OMT 包创建新项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024005Z" creationid="wynnc" creationdate="20210506T024005Z">
@@ -106,6 +122,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024143Z" creationid="wynnc" creationdate="20210506T024143Z">
         <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite it with the translation from the package ?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030427Z" creationid="wynnc" creationdate="20210506T030427Z">
+        <seg>是否要使用包中的翻译覆盖之？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to overwrite this package?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030516Z" creationid="wynnc" creationdate="20210506T030516Z">
+        <seg>是否要覆盖此包？</seg>
       </tuv>
     </tu>
     <tu>
@@ -262,10 +294,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030543Z" creationid="wynnc" creationdate="20210506T030543Z">
+        <seg>OMT 包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>OMT Package file</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030215Z" creationid="wynnc" creationdate="20210506T030215Z">
         <seg>OMT 包文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT Package successfully created.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030539Z" creationid="wynnc" creationdate="20210506T030539Z">
+        <seg>已成功创建 OMT 包。</seg>
       </tuv>
     </tu>
     <tu>
@@ -290,6 +338,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025850Z" creationid="wynnc" creationdate="20210506T025850Z">
         <seg>OpenXML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite OMT Package</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030524Z" creationid="wynnc" creationdate="20210506T030524Z">
+        <seg>覆盖 OMT 包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Overwrite project_save.tmx File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030459Z" creationid="wynnc" creationdate="20210506T030459Z">
+        <seg>覆盖 project_save.tmx 文件</seg>
       </tuv>
     </tu>
     <tu>
@@ -494,10 +558,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The package has been successfully unpacked.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030559Z" creationid="wynnc" creationdate="20210506T030559Z">
+        <seg>已成功解包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>The parameters file does not exist.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025642Z" creationid="wynnc" creationdate="20210506T025642Z">
         <seg>参数文件不存在。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The project already has an ongoing translation.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030448Z" creationid="wynnc" creationdate="20210506T030351Z">
+        <seg>此项目中已经有正在进行的翻译。</seg>
       </tuv>
     </tu>
     <tu>
@@ -552,8 +632,8 @@
       <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
-      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030245Z" creationid="wynnc" creationdate="20210506T030245Z">
-        <seg>用 OMT 包的内容更新当前项目</seg>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030254Z" creationid="wynnc" creationdate="20210506T030245Z">
+        <seg>正在使用 OMT 包的内容更新当前项目</seg>
       </tuv>
     </tu>
     <tu>
