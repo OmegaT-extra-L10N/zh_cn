@@ -254,6 +254,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Find:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033540Z" creationid="wynnc" creationdate="20210506T033540Z">
+        <seg>查找：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Fuzzy Match</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030044Z" creationid="wynnc" creationdate="20210506T030044Z">
@@ -738,6 +746,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
         <seg>选择当前文本文档中的所有文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Shift+Enter performs a backwards search</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033559Z" creationid="wynnc" creationdate="20210506T033559Z">
+        <seg>Shift+Enter 执行向后搜索</seg>
       </tuv>
     </tu>
     <tu>
