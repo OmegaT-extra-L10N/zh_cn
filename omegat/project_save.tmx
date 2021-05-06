@@ -14,10 +14,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copies current selection to the clipboard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024116Z" creationid="wynnc" creationdate="20210506T023955Z">
+        <seg>将当前选中的内容复制到剪贴板。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023941Z" creationid="wynnc" creationdate="20210506T023941Z">
+        <seg>复制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Cut</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024005Z" creationid="wynnc" creationdate="20210506T024005Z">
+        <seg>剪切</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>D</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024116Z" creationid="wynnc" creationdate="20210506T024116Z">
+        <seg>D</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
         <seg>Okapi 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Removes current selection and places it on the clipboard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024138Z" creationid="wynnc" creationdate="20210506T024106Z">
+        <seg>删除当前选中的内容同时将其放到剪贴板中。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>T</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023956Z" creationid="wynnc" creationdate="20210506T023956Z">
+        <seg>T</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
