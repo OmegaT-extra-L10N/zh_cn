@@ -134,6 +134,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Fuzzy Match</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030044Z" creationid="wynnc" creationdate="20210506T030044Z">
+        <seg>模糊匹配</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Fuzzy Matches Issues</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030029Z" creationid="wynnc" creationdate="20210506T030029Z">
+        <seg>模糊匹配问题</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>H</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024902Z" creationid="wynnc" creationdate="20210506T024902Z">
@@ -162,6 +178,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025349Z" creationid="wynnc" creationdate="20210506T025349Z">
         <seg>在注释中包含翻译单元的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Invalid OMT package, file "omegat.project" is missing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030230Z" creationid="wynnc" creationdate="20210506T030230Z">
+        <seg>OMT 包无效，缺少文件“omegat.project”。</seg>
       </tuv>
     </tu>
     <tu>
@@ -238,6 +262,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT Package file</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030215Z" creationid="wynnc" creationdate="20210506T030215Z">
+        <seg>OMT 包文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
@@ -266,6 +298,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024154Z" creationid="wynnc" creationdate="20210506T024154Z">
         <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack and delete project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030153Z" creationid="wynnc" creationdate="20210506T030153Z">
+        <seg>打包并删除项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Pack project as OMT file...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030147Z" creationid="wynnc" creationdate="20210506T030147Z">
+        <seg>将项目打包为 OMT 文件...</seg>
       </tuv>
     </tu>
     <tu>
@@ -358,6 +406,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Segment beginning with a fuzzy match prefix</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030108Z" creationid="wynnc" creationdate="20210506T030102Z">
+        <seg>以模糊匹配前缀开头的片段</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024240Z" creationid="wynnc" creationdate="20210506T024240Z">
@@ -370,6 +426,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025606Z" creationid="wynnc" creationdate="20210506T025606Z">
         <seg>选择过滤器参数文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select location and name of the OMT package</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030213Z" creationid="wynnc" creationdate="20210506T030213Z">
+        <seg>选择 OMT 包的位置和名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select the OMT package to import</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030203Z" creationid="wynnc" creationdate="20210506T030203Z">
+        <seg>选择要导入的 OMT 包</seg>
       </tuv>
     </tu>
     <tu>
@@ -470,6 +542,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Unpack project from OMT file...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030137Z" creationid="wynnc" creationdate="20210506T030137Z">
+        <seg>从 OMT 文件中解压缩项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Updating current project with OMT package content</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030245Z" creationid="wynnc" creationdate="20210506T030245Z">
+        <seg>用 OMT 包的内容更新当前项目</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Use the default filter settings (%s)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025252Z" creationid="wynnc" creationdate="20210506T025252Z">
@@ -522,6 +610,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030011Z" creationid="wynnc" creationdate="20210506T030011Z">
         <seg>XML 文件 (Okapi - XML 流过滤器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>YAML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030020Z" creationid="wynnc" creationdate="20210506T030020Z">
+        <seg>YAML 文件 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
