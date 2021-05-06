@@ -110,6 +110,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Include the name of the translation unit in comments</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025349Z" creationid="wynnc" creationdate="20210506T025349Z">
+        <seg>在注释中包含翻译单元的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
@@ -242,6 +250,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024411Z" creationid="wynnc" creationdate="20210506T024411Z">
         <seg>撤消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the default filter settings (%s)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025252Z" creationid="wynnc" creationdate="20210506T025252Z">
+        <seg>使用默认的过滤器设置(%s)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Use the following filter parameters file:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025323Z" creationid="wynnc" creationdate="20210506T025323Z">
+        <seg>使用以下过滤器参数文件：</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
