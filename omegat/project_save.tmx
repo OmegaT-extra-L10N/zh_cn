@@ -38,6 +38,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025740Z" creationid="wynnc" creationdate="20210506T025740Z">
+        <seg>取消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Choose what text to paste from text recently on the clipboard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024933Z" creationid="wynnc" creationdate="20210506T024933Z">
@@ -70,6 +78,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Copy Error</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025723Z" creationid="wynnc" creationdate="20210506T025723Z">
+        <seg>复制错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Cut</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024005Z" creationid="wynnc" creationdate="20210506T024005Z">
@@ -90,6 +106,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024143Z" creationid="wynnc" creationdate="20210506T024143Z">
         <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Doxygen-commented files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025836Z" creationid="wynnc" creationdate="20210506T025751Z">
+        <seg>Doxygen-commented 文件 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -118,6 +142,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>HTML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025757Z" creationid="wynnc" creationdate="20210506T025757Z">
+        <seg>HTML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>InDesign IDML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025840Z" creationid="wynnc" creationdate="20210506T025840Z">
+        <seg>InDesign IDML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Include the name of the translation unit in comments</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025349Z" creationid="wynnc" creationdate="20210506T025349Z">
@@ -126,10 +166,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Is there an open project?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025721Z" creationid="wynnc" creationdate="20210506T025721Z">
+        <seg>打开项目了吗？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>JSON files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025844Z" creationid="wynnc" creationdate="20210506T025844Z">
+        <seg>JSON 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Markdown files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025847Z" creationid="wynnc" creationdate="20210506T025847Z">
+        <seg>Markdown 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Missing Path</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025613Z" creationid="wynnc" creationdate="20210506T025613Z">
         <seg>缺少路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No &lt;xliff&gt; element found.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025924Z" creationid="wynnc" creationdate="20210506T025924Z">
+        <seg>未找到&lt;xliff&gt;元素。</seg>
       </tuv>
     </tu>
     <tu>
@@ -150,6 +222,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>No element in the file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025927Z" creationid="wynnc" creationdate="20210506T025927Z">
+        <seg>文件中没有元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OK</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025738Z" creationid="wynnc" creationdate="20210506T025738Z">
+        <seg>确定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
@@ -162,6 +250,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024952Z" creationid="wynnc" creationdate="20210506T024952Z">
         <seg>Okapi XLIFF 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OpenXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025850Z" creationid="wynnc" creationdate="20210506T025850Z">
+        <seg>OpenXML 文件 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -206,6 +302,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Qt TS files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025854Z" creationid="wynnc" creationdate="20210506T025854Z">
+        <seg>Qt TS 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024743Z" creationid="wynnc" creationdate="20210506T024743Z">
@@ -246,6 +350,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>SDL-XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025852Z" creationid="wynnc" creationdate="20210506T025852Z">
+        <seg>SDL-XLIFF 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Select All</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024240Z" creationid="wynnc" creationdate="20210506T024240Z">
@@ -278,10 +390,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Sorry, there was a problem copying the parameters file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025734Z" creationid="wynnc" creationdate="20210506T025734Z">
+        <seg>抱歉，复制参数文件时出现问题。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>T</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023956Z" creationid="wynnc" creationdate="20210506T023956Z">
         <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>TagEditor TTX files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025857Z" creationid="wynnc" creationdate="20210506T025857Z">
+        <seg>TagEditor TTX 文件 (Okapi)</seg>
       </tuv>
     </tu>
     <tu>
@@ -302,10 +430,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>The version attribute is missing.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025918Z" creationid="wynnc" creationdate="20210506T025918Z">
+        <seg>缺少版本属性。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Transifex project files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025904Z" creationid="wynnc" creationdate="20210506T025904Z">
+        <seg>Transifex 项目文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>U</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
         <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unable to determine the project folder.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025652Z" creationid="wynnc" creationdate="20210506T025652Z">
+        <seg>无法确定项目文件夹。</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +482,46 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025323Z" creationid="wynnc" creationdate="20210506T025323Z">
         <seg>使用以下过滤器参数文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wordfast Pro TXML files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025859Z" creationid="wynnc" creationdate="20210506T025859Z">
+        <seg>Wordfast Pro TXML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025907Z" creationid="wynnc" creationdate="20210506T025907Z">
+        <seg>XLIFF 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XLIFF-2 files (Okapi)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025910Z" creationid="wynnc" creationdate="20210506T025910Z">
+        <seg>XLIFF-2 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Filter)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025932Z" creationid="wynnc" creationdate="20210506T025932Z">
+        <seg>XML 文件(Okapi - XML 过滤器)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>XML files (Okapi - XML Stream Filter</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030011Z" creationid="wynnc" creationdate="20210506T030011Z">
+        <seg>XML 文件 (Okapi - XML 流过滤器</seg>
       </tuv>
     </tu>
     <tu>
