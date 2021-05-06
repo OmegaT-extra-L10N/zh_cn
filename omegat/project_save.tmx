@@ -142,6 +142,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Direction:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031214Z" creationid="wynnc" creationdate="20210506T031214Z">
+        <seg>方向：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to delete the OMT Package?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030610Z" creationid="wynnc" creationdate="20210506T030610Z">
@@ -166,10 +174,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Down</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031218Z" creationid="wynnc" creationdate="20210506T031218Z">
+        <seg>向下</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Doxygen-commented files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025836Z" creationid="wynnc" creationdate="20210506T025751Z">
         <seg>Doxygen-commented 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>E</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031429Z" creationid="wynnc" creationdate="20210506T031429Z">
+        <seg>E</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Error</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031157Z" creationid="wynnc" creationdate="20210506T031157Z">
+        <seg>错误</seg>
       </tuv>
     </tu>
     <tu>
@@ -186,6 +218,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025241Z" creationid="wynnc" creationdate="20210506T025241Z">
         <seg>过滤器设置目前是&lt;b&gt;项目专用&lt;/b&gt;的。&lt;br&gt;因此，点击“确定”后，参数文件会被复制到此位置：&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Find</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031204Z" creationid="wynnc" creationdate="20210506T031204Z">
+        <seg>查找</seg>
       </tuv>
     </tu>
     <tu>
@@ -286,10 +326,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>M</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031426Z" creationid="wynnc" creationdate="20210506T031426Z">
+        <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Markdown files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025847Z" creationid="wynnc" creationdate="20210506T025847Z">
         <seg>Markdown 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Match case</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031223Z" creationid="wynnc" creationdate="20210506T031223Z">
+        <seg>匹配大小写</seg>
       </tuv>
     </tu>
     <tu>
@@ -330,6 +386,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025927Z" creationid="wynnc" creationdate="20210506T025927Z">
         <seg>文件中没有元素。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>O</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031152Z" creationid="wynnc" creationdate="20210506T031152Z">
+        <seg>O</seg>
       </tuv>
     </tu>
     <tu>
@@ -526,6 +590,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Regex</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031426Z" creationid="wynnc" creationdate="20210506T031426Z">
+        <seg>正则表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Removes current selection and places it on the clipboard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024138Z" creationid="wynnc" creationdate="20210506T024106Z">
@@ -538,6 +610,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024153Z" creationid="wynnc" creationdate="20210506T024153Z">
         <seg>删除当前选中的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031208Z" creationid="wynnc" creationdate="20210506T031208Z">
+        <seg>替换</seg>
       </tuv>
     </tu>
     <tu>
@@ -718,6 +798,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Up</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031216Z" creationid="wynnc" creationdate="20210506T031216Z">
+        <seg>向上</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Updating current project with OMT package content</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030254Z" creationid="wynnc" creationdate="20210506T030245Z">
@@ -742,10 +830,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>W</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031427Z" creationid="wynnc" creationdate="20210506T031427Z">
+        <seg>W</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Whole word</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031417Z" creationid="wynnc" creationdate="20210506T031417Z">
+        <seg>匹配单词</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Wordfast Pro TXML files (Okapi)</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025859Z" creationid="wynnc" creationdate="20210506T025859Z">
         <seg>Wordfast Pro TXML 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Wrap</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T032916Z" creationid="wynnc" creationdate="20210506T032916Z">
+        <seg>循环查找</seg>
       </tuv>
     </tu>
     <tu>
