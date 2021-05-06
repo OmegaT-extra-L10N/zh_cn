@@ -22,10 +22,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Can't Redo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024849Z" creationid="wynnc" creationdate="20210506T024849Z">
+        <seg>无法恢复</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Can't Undo</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024415Z" creationid="wynnc" creationdate="20210506T024415Z">
         <seg>无法撤消</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Choose what text to paste from text recently on the clipboard.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024933Z" creationid="wynnc" creationdate="20210506T024933Z">
+        <seg>从最近在剪贴板上的文本中选择要粘贴的文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Clipboard History:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024940Z" creationid="wynnc" creationdate="20210506T024940Z">
+        <seg>剪贴板历史记录：</seg>
       </tuv>
     </tu>
     <tu>
@@ -70,10 +94,34 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025241Z" creationid="wynnc" creationdate="20210506T025241Z">
+        <seg>过滤器设置目前是&lt;b&gt;项目专用&lt;/b&gt;的。&lt;br&gt;因此，点击“确定”后，参数文件会被复制到此位置：&lt;br&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>H</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024902Z" creationid="wynnc" creationdate="20210506T024902Z">
+        <seg>H</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
         <seg>Okapi 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Okapi XLIFF Filter Options</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024952Z" creationid="wynnc" creationdate="20210506T024952Z">
+        <seg>Okapi XLIFF 过滤器选项</seg>
       </tuv>
     </tu>
     <tu>
@@ -94,10 +142,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Paste from History</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024910Z" creationid="wynnc" creationdate="20210506T024910Z">
+        <seg>从历史记录粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Places text on clipboard at current location in text file.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024233Z" creationid="wynnc" creationdate="20210506T024233Z">
         <seg>将剪贴板中的文本放在文本文件的当前位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>R</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024743Z" creationid="wynnc" creationdate="20210506T024743Z">
+        <seg>R</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Re-applies the last action undone.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024902Z" creationid="wynnc" creationdate="20210506T024902Z">
+        <seg>重新应用上次撤消的操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Redo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024837Z" creationid="wynnc" creationdate="20210506T024837Z">
+        <seg>恢复</seg>
       </tuv>
     </tu>
     <tu>
