@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="en">
+        <seg>A</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024234Z" creationid="wynnc" creationdate="20210506T024234Z">
+        <seg>A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>C</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023937Z" creationid="wynnc" creationdate="20210506T023937Z">
         <seg>C</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Can't Undo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024415Z" creationid="wynnc" creationdate="20210506T024415Z">
+        <seg>无法撤消</seg>
       </tuv>
     </tu>
     <tu>
@@ -46,10 +62,42 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024143Z" creationid="wynnc" creationdate="20210506T024143Z">
+        <seg>删除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
         <seg>Okapi 过滤器选项</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>P</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024154Z" creationid="wynnc" creationdate="20210506T024154Z">
+        <seg>P</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Paste</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024156Z" creationid="wynnc" creationdate="20210506T024156Z">
+        <seg>粘贴</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Places text on clipboard at current location in text file.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024233Z" creationid="wynnc" creationdate="20210506T024233Z">
+        <seg>将剪贴板中的文本放在文本文件的当前位置上。</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +110,58 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Removes current selection.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024153Z" creationid="wynnc" creationdate="20210506T024153Z">
+        <seg>删除当前选中的内容。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Select All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024240Z" creationid="wynnc" creationdate="20210506T024240Z">
+        <seg>全选</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Selects all text in current text document.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
+        <seg>选择当前文本文档中的所有文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>T</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T023956Z" creationid="wynnc" creationdate="20210506T023956Z">
         <seg>T</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Takes back the last action.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024436Z" creationid="wynnc" creationdate="20210506T024436Z">
+        <seg>收回上一个操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>U</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
+        <seg>U</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Undo</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024411Z" creationid="wynnc" creationdate="20210506T024411Z">
+        <seg>撤消</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
