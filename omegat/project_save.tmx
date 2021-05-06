@@ -70,6 +70,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Content Assist Available</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033534Z" creationid="wynnc" creationdate="20210506T033534Z">
+        <seg>内容辅助可用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Copies current selection to the clipboard.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024116Z" creationid="wynnc" creationdate="20210506T023955Z">
@@ -206,6 +214,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>F</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033040Z" creationid="wynnc" creationdate="20210506T033040Z">
+        <seg>F</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter Parameters Files</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025610Z" creationid="wynnc" creationdate="20210506T025610Z">
@@ -326,6 +342,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>K</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033041Z" creationid="wynnc" creationdate="20210506T033041Z">
+        <seg>K</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>L</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030717Z" creationid="wynnc" creationdate="20210506T030717Z">
@@ -346,6 +370,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031426Z" creationid="wynnc" creationdate="20210506T031426Z">
         <seg>M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Mark all</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033038Z" creationid="wynnc" creationdate="20210506T033038Z">
+        <seg>全部标记</seg>
       </tuv>
     </tu>
     <tu>
@@ -634,6 +666,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031208Z" creationid="wynnc" creationdate="20210506T031208Z">
         <seg>替换</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Replace All</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T033020Z" creationid="wynnc" creationdate="20210506T033020Z">
+        <seg>全部替换</seg>
       </tuv>
     </tu>
     <tu>
