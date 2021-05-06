@@ -94,6 +94,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Filter Parameters Files</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025610Z" creationid="wynnc" creationdate="20210506T025610Z">
+        <seg>过滤器参数文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Filter settings are currently &lt;b&gt;Project Specific&lt;/b&gt;.&lt;br&gt;Therefore, after you click "OK", the parameters file will be copied to this location:&lt;br&gt;</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025241Z" creationid="wynnc" creationdate="20210506T025241Z">
@@ -114,6 +122,30 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025349Z" creationid="wynnc" creationdate="20210506T025349Z">
         <seg>在注释中包含翻译单元的名称</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Missing Path</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025613Z" creationid="wynnc" creationdate="20210506T025613Z">
+        <seg>缺少路径</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Parameters File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025634Z" creationid="wynnc" creationdate="20210506T025634Z">
+        <seg>没有参数文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>No Project Folder</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025647Z" creationid="wynnc" creationdate="20210506T025647Z">
+        <seg>没有项目文件夹</seg>
       </tuv>
     </tu>
     <tu>
@@ -166,6 +198,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Protect entries with state='final' (if not set: they can be edited)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025554Z" creationid="wynnc" creationdate="20210506T025554Z">
+        <seg>保护 state='final' 的条目（若不启用：可以编辑此类条目）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>R</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024743Z" creationid="wynnc" creationdate="20210506T024743Z">
@@ -214,10 +254,26 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Select a Filter Parameters File</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025606Z" creationid="wynnc" creationdate="20210506T025606Z">
+        <seg>选择过滤器参数文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Selects all text in current text document.</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024256Z" creationid="wynnc" creationdate="20210506T024256Z">
         <seg>选择当前文本文档中的所有文本。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Show and protect entries with translate='no' (if not set: they are not extracted)</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025520Z" creationid="wynnc" creationdate="20210506T025520Z">
+        <seg>显示并保护 translate='no' 的条目（若不启用：不会提取此类条目）</seg>
       </tuv>
     </tu>
     <tu>
@@ -234,6 +290,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024436Z" creationid="wynnc" creationdate="20210506T024436Z">
         <seg>收回上一个操作。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>The parameters file does not exist.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025642Z" creationid="wynnc" creationdate="20210506T025642Z">
+        <seg>参数文件不存在。</seg>
       </tuv>
     </tu>
     <tu>
@@ -266,6 +330,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025323Z" creationid="wynnc" creationdate="20210506T025323Z">
         <seg>使用以下过滤器参数文件：</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>You must specify a path.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025625Z" creationid="wynnc" creationdate="20210506T025625Z">
+        <seg>必须指定路径。</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
