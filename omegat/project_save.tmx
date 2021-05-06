@@ -126,6 +126,30 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Delete unpacked OMT Package</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030622Z" creationid="wynnc" creationdate="20210506T030622Z">
+        <seg>删除已解压缩的 OMT 包</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Deleting project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030658Z" creationid="wynnc" creationdate="20210506T030658Z">
+        <seg>正在删除项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Do you want to delete the OMT Package?</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030610Z" creationid="wynnc" creationdate="20210506T030610Z">
+        <seg>是否要删除OMT包？</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Do you want to overwrite it with the translation from the package ?</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030427Z" creationid="wynnc" creationdate="20210506T030427Z">
@@ -182,6 +206,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Goto Line</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030714Z" creationid="wynnc" creationdate="20210506T030714Z">
+        <seg>转到行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>H</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024902Z" creationid="wynnc" creationdate="20210506T024902Z">
@@ -234,6 +266,22 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T025844Z" creationid="wynnc" creationdate="20210506T025844Z">
         <seg>JSON 文件 (Okapi)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>L</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030717Z" creationid="wynnc" creationdate="20210506T030717Z">
+        <seg>L</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Line Number:</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030717Z" creationid="wynnc" creationdate="20210506T030717Z">
+        <seg>行号：</seg>
       </tuv>
     </tu>
     <tu>
@@ -318,6 +366,22 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>OMT package imported.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030642Z" creationid="wynnc" creationdate="20210506T030642Z">
+        <seg>已导入 OMT 包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>OMT project packaged.</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030701Z" creationid="wynnc" creationdate="20210506T030654Z">
+        <seg>OMT 项目已打包。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Okapi Filter Options</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T022714Z" creationid="wynnc" creationdate="20210506T022714Z">
@@ -382,6 +446,14 @@
     </tu>
     <tu>
       <tuv lang="en">
+        <seg>Packing OMT project...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030647Z" creationid="wynnc" creationdate="20210506T030647Z">
+        <seg>正在打包 OMT 项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
         <seg>Paste</seg>
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024156Z" creationid="wynnc" creationdate="20210506T024156Z">
@@ -402,6 +474,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T024233Z" creationid="wynnc" creationdate="20210506T024233Z">
         <seg>将剪贴板中的文本放在文本文件的当前位置上。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Please enter an integer between 1 and</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T031150Z" creationid="wynnc" creationdate="20210506T031150Z">
+        <seg>请输入一个整数，从 1 到 </seg>
       </tuv>
     </tu>
     <tu>
@@ -626,6 +706,14 @@
       </tuv>
       <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030137Z" creationid="wynnc" creationdate="20210506T030137Z">
         <seg>从 OMT 文件中解压缩项目...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en">
+        <seg>Unpacking OMT package...</seg>
+      </tuv>
+      <tuv lang="zh-CN" changeid="wynnc" changedate="20210506T030636Z" creationid="wynnc" creationdate="20210506T030636Z">
+        <seg>正在解压缩 OMT 包...</seg>
       </tuv>
     </tu>
     <tu>
